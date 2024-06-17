@@ -63,7 +63,7 @@ The script extracts information from the `/etc/passwd` file to determine the use
 - Counts the number of modified files and sums their sizes.
 - Converts the total file size from Bytes to MegaBytes and prints the result.
 
-### infouser.sh
+### info_user.sh
 
 **Description:**  
 This script provides detailed information about a specific user on the system, including their home directory, its size, other directories they own files in, and the number of active processes.
@@ -86,7 +86,7 @@ The script extracts the user's home directory and calculates its size. It also f
 - Counts the number of active processes for the user.
 - Prints the gathered information in a readable format.
 
-### net-out.sh
+### net_out.sh
 
 **Description:**  
 This script displays network interface statistics, including the name of each interface and the number of transmitted packets.
